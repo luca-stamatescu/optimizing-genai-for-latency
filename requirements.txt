@@ -2,3 +2,5 @@ openai
 python-dotenv
 matplotlib
 pandas
+langchain
+redis
