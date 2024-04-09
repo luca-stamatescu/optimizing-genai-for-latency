@@ -5,3 +5,4 @@ pandas
 langchain
 redis
 aiohttp
+llmlingua
